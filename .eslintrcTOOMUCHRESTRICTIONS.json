@@ -45,6 +45,9 @@
     "VideoDecoder": "readonly"
   },
   "rules": {
+    "space-in-parens":"off",
+    "space-before-blocks": "off",
+    "padded-blocks": "off",
     "no-throw-literal": [
       "error"
     ],
